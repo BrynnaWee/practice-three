@@ -6,3 +6,16 @@
 	z-index:99;
     background-color: #ffffff;
 }
+
+.canvas .btnCont {
+    position:absolute;
+	top:0;
+	width: 800px;
+	z-index:9999;
+    margin: 15px;
+}
+
+.canvas .btnCont>button{
+    display: inline-block;
+    margin-right: 5px;
+}
